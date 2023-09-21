@@ -1,4 +1,4 @@
-# ETL-Pipeline-for-NYC_Taxi-Data
+# ELT-Pipeline-for-NYC_Taxi-Data
 This repository contains a Python script that creates an ETL pipeline to fetch data from the NYC TLC public dataset, load it into Google Cloud Storage (GCS), and then load it into separate tables in BigQuery. The pipeline also includes loading the taxi_zone data into GCS and BigQuery.
 
 # Prerequisites
